@@ -2,7 +2,7 @@ import React from 'react'
 
 const Swap = () => {
   return (
-    <div>Swap</div>
+    <div>Start</div>
   )
 }
 
