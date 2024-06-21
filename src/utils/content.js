@@ -104,7 +104,7 @@ export const section2Content = {
 };
 
 export const section3Content = {
-  title: "Optimize your trades across hundreds of DEXes on multiple networks",
+  title: "Optimize your gaming across hundreds of DEXes on multiple networks",
   ITEMS: [
     { logo: EthImg, name: "Ethereum" },
     { logo: BscImg, name: "BNB Chain" },
