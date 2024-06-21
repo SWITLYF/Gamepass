@@ -23,7 +23,7 @@ const Section4 = () => {
             </Typography>
 
             <OutlinedButton arrow fit>
-              Swap
+              Start
             </OutlinedButton>
           </Stack>
         </Grid>
