@@ -198,7 +198,7 @@ export const section6Content = {
     },
     {
       title: "Gamepass RabbitHole",
-      subtitle: "A feature that protects MetaMask users from sandwich attacks.",
+      subtitle: "A feature that protects Solana users from sandwich attacks.",
       image: Sec6Image5,
     },
   ],
@@ -215,9 +215,9 @@ export const section7Content = {
       image: Sec7Image1,
     },
     {
-      title: "Gamepass grant program",
+      title: "Gamepass Programs",
       subtitle:
-        "An initiative that fosters the Gamepass Network's growth and incentivizes contributions through grants and other resources.",
+        "An initiative that fosters the Gamepass Network's growth and incentivizes contributions through resources.",
       image: Sec7Image2,
     },
   ],
